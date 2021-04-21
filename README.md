@@ -1,2 +1,2 @@
-# aws-example
-This the new repository !!!
+# django-crud-example
+A simple crud in django
